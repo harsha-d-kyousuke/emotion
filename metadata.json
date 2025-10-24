@@ -1,0 +1,7 @@
+{
+  "name": "LumeraGPT",
+  "description": "A personalized mental wellness chatbot that uses voice recognition, tone and emotion analysis, and dynamic AI conversation generation using the Gemini API to provide an empathetic and supportive user experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
